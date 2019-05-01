@@ -1,0 +1,1 @@
+Esta version del Servidor de archivos permite que varios usuarios o clientes interactuen al mismo tiempo con el servidor 
