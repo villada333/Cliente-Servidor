@@ -1,0 +1,12 @@
+cambiar la ip del balanceador por a del equipo que se corra
+crear la carpeta data para el cliente y el server
+
+
+python3 clientfileserver.py 192.168.9.185:5000
+
+python3 serverfileserver.py ipserver puertoserver 192.168.9.185:5000
+
+
+
+
+192.168.9.185
